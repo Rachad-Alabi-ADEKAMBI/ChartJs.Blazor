@@ -63,7 +63,7 @@ the [Moment.js installation page](https://momentjs.com/docs/#/use-it/) where you
 Now add a reference to `ChartJs.Blazor` in your `_Imports.razor`.
 
 ```csharp
-@using ChartJs.Blazor;
+@using ChartJs.Blazor
 ```
 
 Other commonly used namespaces which you might want to import globally are:
